@@ -1,5 +1,8 @@
 {
     "name": "myapp",
+    "scripts": {
+        "start": "node index.js"
+    },
     "description": "a really cool app",
     "version": "1.0.0",
     "engines": {
